@@ -13,7 +13,7 @@ import Contact from "./Component/Contact";
 
 const App = () => {
   return (
-    <div className=" font-bodyFont">
+    <div className=" font-bodyFont overflow-hidden">
       <Banner />
       <UiSection />
       <About />
