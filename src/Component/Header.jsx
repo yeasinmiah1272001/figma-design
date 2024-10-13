@@ -15,7 +15,7 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-white h-[80px] flex items-center justify-between px-6 md:px-16 mx-auto rounded-full shadow-lg fixed top-4 left-0 right-0 z-10 max-w-7xl">
+    <header className="bg-white h-[80px] -[1168px] flex items-center justify-between px-6 md:px-16 mx-auto rounded-full shadow-lg fixed top-4 left-0 right-0 z-10 max-w-7xl">
       {/* Logo */}
       <div className="text-2xl font-bold uppercase">Jasiso</div>
 
